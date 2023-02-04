@@ -1,0 +1,15 @@
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\bin\Debug\net6.0\5 reqemli eded.exe
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\bin\Debug\net6.0\5 reqemli eded.deps.json
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\bin\Debug\net6.0\5 reqemli eded.runtimeconfig.json
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\bin\Debug\net6.0\5 reqemli eded.dll
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\bin\Debug\net6.0\5 reqemli eded.pdb
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\obj\Debug\net6.0\5 reqemli eded.csproj.AssemblyReference.cache
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\obj\Debug\net6.0\5 reqemli eded.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\obj\Debug\net6.0\5 reqemli eded.AssemblyInfoInputs.cache
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\obj\Debug\net6.0\5 reqemli eded.AssemblyInfo.cs
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\obj\Debug\net6.0\5 reqemli eded.csproj.CoreCompileInputs.cache
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\obj\Debug\net6.0\5 reqemli eded.dll
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\obj\Debug\net6.0\refint\5 reqemli eded.dll
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\obj\Debug\net6.0\5 reqemli eded.pdb
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\obj\Debug\net6.0\5 reqemli eded.genruntimeconfig.cache
+C:\Users\rufatrk\Desktop\5 reqemli eded\5 reqemli eded\obj\Debug\net6.0\ref\5 reqemli eded.dll
